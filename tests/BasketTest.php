@@ -18,4 +18,5 @@ class BasketTest extends TestCase
 
         $this->assertEquals(1, $basket->getItemCount());
     }
+
 }
